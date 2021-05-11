@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Some other custom ignores:
+package-lock.json

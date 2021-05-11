@@ -1,0 +1,15 @@
+{
+  "name": "playwright-course-code-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvrin/playwright-course-code-snippets.git"
+  },
+  "author": "Victor V.",
+  "homepage": "https://github.com/victorvrin/playwright-course-code-snippets#readme",
+  "devDependencies": {
+    "@playwright/test": "^0.1110.0",
+    "playwright": "^1.11.0"
+  }
+}
